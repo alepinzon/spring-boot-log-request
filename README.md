@@ -1,6 +1,7 @@
 # spring-boot-log-request
 
 This example logs every HTTP request using a CommonsRequestLoggingFilter in a Spring boot application
+<br>
 You can test the endpoints and check the request logs with the following commands:
 
 GET
