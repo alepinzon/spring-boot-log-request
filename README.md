@@ -4,6 +4,9 @@ This example logs every HTTP request using a CommonsRequestLoggingFilter in a Sp
 <br>
 You can test the endpoints and check the request logs with the following commands:
 
+Foo Bar
+
+
 GET
 ```
 curl --location --request GET 'http://127.0.0.1:8080/hello?foo=1&bar=2' \
